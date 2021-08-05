@@ -1,0 +1,10 @@
+C:\Users\Anoja\source\repos\OTP\OTP\bin\Debug\OTP.exe.config
+C:\Users\Anoja\source\repos\OTP\OTP\bin\Debug\OTP.exe
+C:\Users\Anoja\source\repos\OTP\OTP\bin\Debug\OTP.pdb
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.csprojAssemblyReference.cache
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.Form1.resources
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.Properties.Resources.resources
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.csproj.GenerateResource.cache
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.csproj.CoreCompileInputs.cache
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.exe
+C:\Users\Anoja\source\repos\OTP\OTP\obj\Debug\OTP.pdb
